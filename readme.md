@@ -12,3 +12,9 @@ git remote add <repository_name> <repository_url>
 ```
 git pull
 ```
+```
+for(int i = 1; i < 10; i++)
+{
+    Console.WriteLine(i*i)
+}
+```
