@@ -12,9 +12,15 @@ git remote add <repository_name> <repository_url>
 ```
 git pull
 ```
-```
+```C#
 for(int i = 1; i < 10; i++)
 {
     Console.WriteLine(i*i)
+}
+```
+```C#
+while(n < 0)
+{
+  n++;
 }
 ```
