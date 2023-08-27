@@ -8,3 +8,7 @@
 ```
 git remote add <repository_name> <repository_url>
 ```
+Для получения и слияния изменений из удалённого репозитория используется команда:
+```
+git pull
+```
