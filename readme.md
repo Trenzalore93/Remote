@@ -12,3 +12,9 @@ git remote add <repository_name> <repository_url>
 ```
 git pull
 ```
+```
+while (n < 0)
+{
+n++;
+}
+```
